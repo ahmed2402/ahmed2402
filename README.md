@@ -13,7 +13,6 @@
   AI Engineer &nbsp;·&nbsp; CS Student @ NED University &nbsp;·&nbsp; Building Intelligent Agents
 </p>
 
-<br>
 
 ---
 
