@@ -105,8 +105,7 @@
 
 <div align="center">
 
-*"I let the AI handle it. Twice."*
+*"The agent did it. I just wrote the prompt."*
 
 </div>
-
 <img align="center" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer">
