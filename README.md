@@ -13,7 +13,6 @@
   AI Engineer &nbsp;·&nbsp; CS Student @ NED University &nbsp;·&nbsp; Building Intelligent Agents
 </p>
 
-
 ---
 
 <h3 align="center" style="font-family: Orbitron, monospace; letter-spacing: 2px;">ABOUT ME</h3>
@@ -91,15 +90,15 @@
 
 <h3 align="center" style="font-family: Orbitron, monospace; letter-spacing: 2px;">GITHUB STATS</h3>
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ahmed2402&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=32CD32&icon_color=32CD32&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed2402&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=32CD32&langs_count=8" />
-</div>
+<!-- <div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ahmed2402&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=32CD32&icon_color=32CD32&count_private=true&cache_seconds=1800" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed2402&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=32CD32&langs_count=8&cache_seconds=1800" />
+</div> -->
 
-<br>
+<!-- <br> -->
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=ahmed2402&theme=radical&hide_border=true&background=0D1117&ring=32CD32&fire=32CD32&currStreakLabel=32CD32" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed2402&theme=radical&hide_border=true&background=0D1117&ring=32CD32&fire=32CD32&currStreakLabel=32CD32" />
 </div>
 
 ---
