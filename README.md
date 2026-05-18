@@ -106,6 +106,5 @@
 <div align="center">
 
 *"The agent did it. I just wrote the prompt."*
-
-</div>
 <img align="center" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer">
+</div>
